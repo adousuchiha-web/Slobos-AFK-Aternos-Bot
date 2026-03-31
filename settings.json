@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WolfFangSMP.aternos.me:37570",
-    "port": 27586,
+    "ip": "WolfFangSMP.aternos.me",
+    "port": 37570,
     "version": "",
     "try-creative": false
   },
