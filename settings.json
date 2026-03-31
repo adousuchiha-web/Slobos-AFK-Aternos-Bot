@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "WolfFangSMP.aternos.me:37570",
     "port": 27586,
     "version": "",
     "try-creative": false
